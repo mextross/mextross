@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mextross
 - 👀 I’m interested in test automation
-- 🌱 I’m currently learning playwright and CICD projects
+- 🌱 I’m currently learning playwright
 - 📫 You can reach me on https://www.linkedin.com/in/michelleextross/
